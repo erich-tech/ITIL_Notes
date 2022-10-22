@@ -1,6 +1,3 @@
-# ITIL_Notes
-Free notes for the ITIL 4 Foundation certification exam.
-
 # Overview
 [ITIL 4 Foundation (IT Service Management)](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation) introduces an end-to-end operating model for the creation, delivery and continual improvement of technology-enabled products and services. The course will help you to understand: [1} how modern IT and digital service organizations operate; [2] how value streams increase speed and efficiency; [3] how cultural or behavioural principles guide work that benefits the wider organization; [4] how to use commonly-used service management terms and concepts.
 
