@@ -1,4 +1,4 @@
-# Domain 2.0 - Infrastructure
+# Domain 2.0 - Understand how the ITIL guiding principles can help an organization adopt and adapt service management
 
 | # | Subdomains   | 
 |---|---|
