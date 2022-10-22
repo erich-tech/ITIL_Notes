@@ -2,7 +2,8 @@
 
 | # | Subdomains   | 
 |---|---|
-|6.1 | [name.](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_6#readme) |
+|6.1 | [Recall the purpose of the following ITIL practices: [15 concepts]](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_6#readme) |
+|6.2 | [Recall definitions of the following ITIL terms: [7 concepts]](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_6#readme) |
 
 
 ```
