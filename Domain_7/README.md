@@ -2,7 +2,8 @@
 
 | # | Subdomains   | 
 |---|---|
-|7.1 | [name.](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_7#readme) |
+|7.1 | [Explain the following ITIL practices in detail, excluding how
+they fit within the service value chain: [7 concepts]](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_7#readme) |
 
 
 ```
