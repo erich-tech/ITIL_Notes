@@ -1,4 +1,4 @@
-# Domain 3.0 - Applications and Software
+# Domain 3.0 - Understand the four dimensions of service
 
 | # | Subdomains   | 
 |---|---|
