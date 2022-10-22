@@ -12,10 +12,10 @@ The exam covers 7 domains:
 | # | Domain   | Marks|
 |---|---|---|
 |1.0 | [Understand the key concepts of service management](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_1#readme) | 5|
-|2.0 | [Infrastructure ](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_2#readme) | 6|
-|3.0 | [Applications and Software](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_3#readme) | 2|
-|4.0 | [Software Development](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_4#readme) | 1|
-|5.0 | [Database Fundamentals](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_5#readme) | 2|
+|2.0 | [Understand how the ITIL guiding principles can help an organization adopt and adapt service management](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_2#readme) | 6|
+|3.0 | [Understand the four dimensions of service](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_3#readme) | 2|
+|4.0 | [Understand the purpose and components of the ITIL service value system](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_4#readme) | 1|
+|5.0 | [Understand the activities of the service value chain, and how they interconnect](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_5#readme) | 2|
 |6.0 | [Know the purpose and key terms of 15 ITIL practices](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_6#readme) | 7|
 |7.0 | [Understand 7 ITIL practices](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_7#readme) | 17|
 | | | 40|
