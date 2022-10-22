@@ -21,4 +21,4 @@ The exam covers 7 domains:
 |5.0 | [Database Fundamentals](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_5#readme) | 2|
 |6.0 | [Know the purpose and key terms of 15 ITIL practices](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_6#readme) | 7|
 |7.0 | [Understand 7 ITIL practices](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_7#readme) | 17|
-| | Total:| 40|
+| | | 40|
