@@ -6,5 +6,5 @@
 |5.2 | [Describe the purpose of each value chain activity: [6 concepts]](https://github.com/erich-tech/ITIL_Notes/tree/main/Domain_5#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
